@@ -1,6 +1,6 @@
 # NvidiaGraphRAG
 
-###Welcoome to Graph RAG using Nvidia-Endpoints
+### Welcoome to Graph RAG using Nvidia-Endpoints
 We would be leveraging langchain, GraphQAChain for this project. To install the requirements, run
 ```
 pip install -r requirements.txt
